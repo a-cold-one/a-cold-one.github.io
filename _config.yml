@@ -16,7 +16,7 @@
 title: A-Cold-One's site
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A cyber sec blog about things I find cool. Hoping to do digital forensics and other stuff as well. like home lab stuff 
+  A cyber sec blog about things I find cool. Hoping to do digital forensics and other stuff as well. Might through in some Homelab stuff
 #twitter_username: username
 github_username: username
 minimal_mistakes_skin: neon
@@ -111,3 +111,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+  #added
+search: true
+
