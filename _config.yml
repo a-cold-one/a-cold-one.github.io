@@ -29,7 +29,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles
 
 include:
   - _pages
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-#  name   : "First Lastname"
+  name   : 
   avatar : "/assets/images/yeah.jpg"
   bio    : "Fun blog for stuff before work stuff"
   links:
@@ -115,3 +115,6 @@ tag_archive:
   #added
 search: true
 
+teaser: /assets/images/yeah.jpg
+
+logo: "/assets/images/yeah.jpg"
