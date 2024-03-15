@@ -117,4 +117,4 @@ search: true
 
 teaser: /assets/images/yeah.jpeg
 
-logo: "/assets/images/yeah.jpeg"
+logo: /assets/images/yeah.jpeg
