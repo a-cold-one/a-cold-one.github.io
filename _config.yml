@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : 
-  avatar : "/assets/images/yeah.jpg"
+  avatar : "/assets/images/yeah.jpeg"
   bio    : "Fun blog for stuff before work stuff"
   links:
     - label: "Website"
@@ -115,6 +115,6 @@ tag_archive:
   #added
 search: true
 
-teaser: /assets/images/yeah.jpg
+teaser: /assets/images/yeah.jpeg
 
-logo: "/assets/images/yeah.jpg"
+logo: "/assets/images/yeah.jpeg"
