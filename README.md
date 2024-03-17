@@ -10,3 +10,7 @@ https://mmistakes.github.io/minimal-mistakes/about/
 
 ## Setting up Jekyll locally
 https://labsyspharm.github.io/jekyll-tutorial/local-setup
+
+## Editing varibles in minimal mistakes for github pages
+https://www.janmeppe.com/blog/how-to-change-code-blocks-minimal-mistakes/
+
